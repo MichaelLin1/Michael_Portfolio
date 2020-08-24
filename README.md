@@ -15,3 +15,7 @@ Data Science Project Portfolio
 # [Project 3: Housing Price Project](https://github.com/MichaelLin1/Housing-Price-Project/blob/master/House%20Price%20Project.ipynb)
 * Des 1
 * Des 2
+
+# [Project 4: NY Indian Cuisine](https://github.com/MichaelLin1/Capston-Project-NY-Indian-Cuisine/blob/master/Capstone%20Project%20NY%20Indian%20Cuisine.ipynb)
+* Des 1
+* Des 2
