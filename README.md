@@ -10,3 +10,8 @@ Data Science Project Portfolio
 # [Project 2: Neighborhood Project](https://github.com/MichaelLin1/Neighborhoods-Project/blob/master/Neighborhoods%20Project.ipynb)
 * Des 1
 * Des 2
+
+
+# [Project 3: Housing Price Project](https://github.com/MichaelLin1/Housing-Price-Project/blob/master/House%20Price%20Project.ipynb)
+* Des 1
+* Des 2
