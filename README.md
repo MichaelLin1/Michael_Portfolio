@@ -6,3 +6,7 @@ Data Science Project Portfolio
 * Des 2
 * Des 3
 * Des 4
+
+# [Project 2: Neighborhood Project](https://github.com/MichaelLin1/Neighborhoods-Project/blob/master/Neighborhoods%20Project.ipynb)
+* Des 1
+* Des 2
